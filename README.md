@@ -1,12 +1,12 @@
-# Hello, World! 🌍
+# Hello 
 
-I'm [Your Name], a teen coder from England. Python is my main jam, and I'm diving into the worlds of C++ and C.
+I'm Leon, a teen coder from England. Python is my main, and I'm diving into of C++ and C.
 
-## Current Adventures:
+## Current stuff:
 
 - **Python Exploration:** I'm tinkering with various projects to showcase the wonders of Python.
 
-- **CobaltCmd:** Recently, I crafted CobaltCmd, a note-taking program that's more than just notes.
+- **CobaltCmd:** Recently, I crafted CobaltCmd a cmd with lots of ip, weather and location features.
 
 ## Featured Projects:
 
@@ -24,8 +24,7 @@ Explore my Python projects, ranging from web development to data science.
 
 ## Let's Connect:
 
-- **LinkedIn:** [Your Name](link-to-linkedin)
-- **Twitter:** [@yourhandle](link-to-twitter)
+- **Instagram:** [shebreem](instagram.com/shebreem)
 
 Whether you're curious about CobaltCmd, Python projects, or just want to chat about coding, feel free to reach out. Let's make some coding magic! 🚀💻
 
