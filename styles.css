@@ -1,0 +1,9 @@
+/* styles.css */
+h1, h2, h3, p {
+    font-family: verdana;
+    color: #140F2D;
+}
+
+h1, h2 {
+    text-align: center;
+}
